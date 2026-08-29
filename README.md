@@ -164,6 +164,7 @@ This directory provides a curated, battle-tested stack of **123 open-source repo
 
 | Repository | Stars | Language | Description |
 |---|:---:|:---:|---|
+| [**vostride/agent-qa**](https://github.com/vostride/agent-qa) | ⭐ 933 | `TypeScript` | Authors and runs natural-language regression tests for web, Android, and iOS. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years. |
 | [**masrisystems/RoyalCars**](https://github.com/masrisystems/RoyalCars) | ⭐ 1 | `SCSS` | No description provided. |
 | [**masrisystems/Restaurant101**](https://github.com/masrisystems/Restaurant101) | ⭐ 1 | `HTML` | No description provided. |
 | [**masrisystems/JS-Fetch**](https://github.com/masrisystems/JS-Fetch) | ⭐ 1 | `JavaScript` | No description provided. |
