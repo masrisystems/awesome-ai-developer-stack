@@ -119,6 +119,7 @@ This directory provides a curated, battle-tested stack of **123 open-source repo
 |---|:---:|:---:|---|
 | [**amruthpillai/reactive-resume**](https://github.com/amruthpillai/reactive-resume) | ⭐ 41.858 | `TypeScript` | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
 | [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) | ⭐ 47.484 | `Python` | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps |
+| [**sandbaseai/sandbase-harness**](https://github.com/sandbaseai/sandbase-harness) | ⭐ 639 | `TypeScript` | Local-first, self-hosted AI-agent runtime and MCP bridge with persistent sessions, approvals, credentials, audit/replay, and selectable execution backends |
 | [**patchy631/ai-engineering-hub**](https://github.com/patchy631/ai-engineering-hub) | ⭐ 37.209 | `Jupyter Notebook` | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 | [**bitbonsai/mcpvault**](https://github.com/bitbonsai/mcpvault) | ⭐ 1.638 | `TypeScript` | A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access |
 | [**upstash/context7**](https://github.com/upstash/context7) | ⭐ 61.328 | `TypeScript` | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors |
