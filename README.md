@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">⚡ Awesome AI & Developer Stack (Curated 123+ Repos)</h1>
+  <h1 align="center">⚡ Awesome AI & Developer Stack (Curated 124+ Repos)</h1>
   <p align="center">
     <strong>The ultimate curated directory of top-tier AI Agent frameworks, Model Context Protocol (MCP) servers, portable skills, local LLM runtimes, and modern developer automation tools.</strong>
   </p>
@@ -20,7 +20,7 @@
 - [Quick Summary by Category](#-quick-summary-by-category)
 - [🧠 AI Skills & Agent Instructions](#ai-skills--agent-instructions)
 - [🤖 Autonomous Agents & Multi-Agent Swarms](#autonomous-agents--multi-agent-swarms)
-- [🔌 Model Context Protocol (MCP) Servers](#model-context-protocol-mcp-servers)
+- [🔌 Model Context Protocol (MCP) Servers](#-model-context-protocol-mcp-servers)
 - [⚡ AI Models, Quantization & Runtimes](#ai-models-quantization--runtimes)
 - [🛠️ DevTools, CLI & Workflow Automation](#devtools-cli--workflow-automation)
 - [📦 Self-Hosted Apps & Cloud Services](#self-hosted-apps--cloud-services)
@@ -36,7 +36,7 @@
 
 ## 🌟 Overview
 
-This directory provides a curated, battle-tested stack of **123 open-source repositories** designed for AI engineers, full-stack developers, and agent builders. Every tool is categorized by practical development workflow.
+This directory provides a curated, battle-tested stack of **124 open-source repositories** designed for AI engineers, full-stack developers, and agent builders. Every tool is categorized by practical development workflow.
 
 ---
 
@@ -46,7 +46,7 @@ This directory provides a curated, battle-tested stack of **123 open-source repo
 |---|---|:---:|
 | [**🧠 AI Skills & Agent Instructions**](#ai-skills--agent-instructions) | Portable skills, modular instructions, and prompt frameworks for Claude Code, Codex, Gemini, and Antigravity. | **16** |
 | [**🤖 Autonomous Agents & Multi-Agent Swarms**](#autonomous-agents--multi-agent-swarms) | Multi-agent coding frameworks, swarms, orchestrators, and AI job search / dev agents. | **16** |
-| [**🔌 Model Context Protocol (MCP) Servers**](#model-context-protocol-mcp-servers) | MCP tool servers, browser automations, database connections, and memory bridges. | **18** |
+| [**🔌 Model Context Protocol (MCP) Servers**](#-model-context-protocol-mcp-servers) | MCP tool servers, browser automations, database connections, and memory bridges. | **19** |
 | [**⚡ AI Models, Quantization & Runtimes**](#ai-models-quantization--runtimes) | Local LLM inference engines, quantizers, WebUI interfaces, and model tooling. | **7** |
 | [**🛠️ DevTools, CLI & Workflow Automation**](#devtools-cli--workflow-automation) | Developer utilities, terminal fixers, Git helpers, and task automation libraries. | **29** |
 | [**📦 Self-Hosted Apps & Cloud Services**](#self-hosted-apps--cloud-services) | Self-hosted document management, network ad-blockers, CRMs, and mesh networking tools. | **9** |
@@ -135,6 +135,7 @@ This directory provides a curated, battle-tested stack of **123 open-source repo
 | [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | ⭐ 57.180 | `TypeScript` | Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors |
 | [**thedotmack/claude-mem**](https://github.com/thedotmack/claude-mem) | ⭐ 92.427 | `JavaScript` | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 | [**ComposioHQ/composio**](https://github.com/ComposioHQ/composio) | ⭐ 29.915 | `TypeScript` | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. |
+| [**seifip/kilobat-cli**](https://github.com/seifip/kilobat-cli) | ⭐ 1 | `Swift` | GPL-3.0-only local network diagnostics, per-app traffic and a stdio MCP server for agents on macOS 14+. |
 
 [⬆ Back to Top](#-table-of-contents)
 
