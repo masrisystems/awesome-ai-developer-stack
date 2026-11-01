@@ -20,7 +20,7 @@
 - [Quick Summary by Category](#-quick-summary-by-category)
 - [🧠 AI Skills & Agent Instructions](#ai-skills--agent-instructions)
 - [🤖 Autonomous Agents & Multi-Agent Swarms](#autonomous-agents--multi-agent-swarms)
-- [🔌 Model Context Protocol (MCP) Servers](#model-context-protocol-mcp-servers)
+- [🔌 Model Context Protocol (MCP) Servers](#-model-context-protocol-mcp-servers)
 - [⚡ AI Models, Quantization & Runtimes](#ai-models-quantization--runtimes)
 - [🛠️ DevTools, CLI & Workflow Automation](#devtools-cli--workflow-automation)
 - [📦 Self-Hosted Apps & Cloud Services](#self-hosted-apps--cloud-services)
@@ -46,7 +46,7 @@ This directory provides a curated, battle-tested stack of **124 open-source repo
 |---|---|:---:|
 | [**🧠 AI Skills & Agent Instructions**](#ai-skills--agent-instructions) | Portable skills, modular instructions, and prompt frameworks for Claude Code, Codex, Gemini, and Antigravity. | **16** |
 | [**🤖 Autonomous Agents & Multi-Agent Swarms**](#autonomous-agents--multi-agent-swarms) | Multi-agent coding frameworks, swarms, orchestrators, and AI job search / dev agents. | **16** |
-| [**🔌 Model Context Protocol (MCP) Servers**](#model-context-protocol-mcp-servers) | MCP tool servers, browser automations, database connections, and memory bridges. | **19** |
+| [**🔌 Model Context Protocol (MCP) Servers**](#-model-context-protocol-mcp-servers) | MCP tool servers, browser automations, database connections, and memory bridges. | **19** |
 | [**⚡ AI Models, Quantization & Runtimes**](#ai-models-quantization--runtimes) | Local LLM inference engines, quantizers, WebUI interfaces, and model tooling. | **7** |
 | [**🛠️ DevTools, CLI & Workflow Automation**](#devtools-cli--workflow-automation) | Developer utilities, terminal fixers, Git helpers, and task automation libraries. | **29** |
 | [**📦 Self-Hosted Apps & Cloud Services**](#self-hosted-apps--cloud-services) | Self-hosted document management, network ad-blockers, CRMs, and mesh networking tools. | **9** |
