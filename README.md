@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Non--Commercial_(MS--NC--1.0)-red.svg" alt="License: Non-Commercial (MS-NC-1.0)"></a>
   <a href="https://github.com/masrisystems/awesome-ai-developer-stack/stargazers"><img src="https://img.shields.io/github/stars/masrisystems/awesome-ai-developer-stack?style=flat" alt="GitHub Stars"></a>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/masrisystems/awesome-ai-developer-stack/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome"></a>
@@ -304,4 +304,4 @@ Suggestions and contributions are welcome! If you know of an awesome AI agent, M
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Distributed under the Masri Systems Non-Commercial Source-Available License (MS-NC-1.0). See [LICENSE](LICENSE) for details. Personal and academic use only; business and commercial environments are prohibited without a separate commercial license (`hallo@masrisystems.com`).
